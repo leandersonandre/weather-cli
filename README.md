@@ -1,6 +1,6 @@
 # weather-cli
 
-Aplicativo por linha de comando para obter os dados do clima
+Aplicativo por linha de comando  desenvolvido em GoLang para obter os dados do clima
 
 ## Instalação
 
