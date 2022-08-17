@@ -4,12 +4,14 @@ Aplicativo por linha de comando  desenvolvido em GoLang para obter os dados do c
 
 ## Instalação
 
-## Uso básico
+## Sintaxe
 
 
 ```
 weather [-options] [args]
 ```
+
+## Exemplos de uso
 
 Definir a localização padrão
 
