@@ -6,6 +6,11 @@ Aplicativo por linha de comando para obter os dados do clima
 
 ## Uso básico
 
+
+```
+weather [-options] [args]
+```
+
 Definir a localização padrão
 
 ```
