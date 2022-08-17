@@ -12,9 +12,14 @@ Definir a localização padrão
 weather -l joinville
 ```
 
-Obter o tempo do dia
+Obter o tempo do dia da localização padrão
 ```
 weather
+```
+
+Obter o tempo do dia de qualquer localização
+```
+weather curitiba
 ```
 
 Obter o tempo das próximas 24 horas
